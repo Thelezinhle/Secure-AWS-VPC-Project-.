@@ -25,7 +25,7 @@ A Private Subnet that does not allow direct inbound internet access
 
 The public subnet hosts a NAT Gateway, which enables resources in the private subnet to initiate outbound internet connections while maintaining security isolation.
 
-![Secure AWS VPC Architecture Diagram](architecture-diagram.png)
+![Secure AWS VPC Architecture Diagram]https://github.com/Thelezinhle/Secure-AWS-VPC-Project-./blob/main/architecture-diagram.drawio.png
 
 Network Configuration Details
 
